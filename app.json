@@ -14,9 +14,9 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://github.com/SpEcHiDe/PublicLeech",
-  "success_url": "https://telegram.dog/ThankTelegram",
-  "website": "https://github.com/SpEcHiDe/PublicLeech",
+  "repository": "https://github.com/dqanshi/PublicLeech",
+  "success_url": "https://telegram.dog/am_dq_fan",
+  "website": "https://github.com",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
